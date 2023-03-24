@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lojini Perera</h1>
 <h3 align="center">Undergraduate</h3>
 
+- 🔭 I'm Studying Bsc.(Hons) Computer Science at NSBM Green University Sri-Lanka.
+
 - 🌱 I’m currently learning **Software Testing**
 
 - 📫 How to reach me **lojiniperera@gmail.com**
 
 - ⚡ Fun fact **~**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
