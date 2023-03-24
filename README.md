@@ -1,4 +1,4 @@
-<img alt="Github" src="https://user-images.githubusercontent.com/88836049/227425453-f6d37635-3cd6-4c49-9b70-29f5b28f374c.gif" width="100%" height="600"/>
+<p align="center"><img alt="Github" src="https://user-images.githubusercontent.com/88836049/227425453-f6d37635-3cd6-4c49-9b70-29f5b28f374c.gif" width="85%" height="400"/></p>
 <h1 align="center">Hi 👋, I'm Lojini Perera</h1>
 <h3 align="center">Undergraduate</h3>
 
